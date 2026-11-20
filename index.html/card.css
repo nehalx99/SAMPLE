@@ -1,0 +1,42 @@
+.card{
+    border: 3px chocolate ;
+    box-shadow: 0px 2px 5px #b5bb0f;
+}
+.menu{
+    display: grid;
+    grid-template-columns: 600px 400px 600px;
+    gap: 10px;
+}
+img:hover{
+    transform: scale(1.5);
+    transition: transform 0.5 ease;
+}
+#btn{
+    background-color: rgb(107, 41, 184);
+    transition:background-color 0.3s ease;
+
+}
+#btn:hover{
+    background-color: rgb(3, 11, 6);
+    transform: scale(1.7);
+    transition: transform background-color 0.3s ease-in-out;
+}
+#navv{
+    color: crimson;
+    background-color: rgb(236, 235, 217);
+    padding: 20px;
+    gap: 30px;
+    font-size: larger;
+}
+nav a:hover{
+    color: darkmagenta;
+    transform: scale(1.2);
+    transition: transform color 0.3s ease;
+
+}
+
+.h{
+    background-color: brown;
+    transform: scale(1.5);
+    transition: transform back-color 0.3 ease;
+}

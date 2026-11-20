@@ -1,0 +1,35 @@
+body{
+    background-color: darkkhaki;
+    background-image: -moz-element();
+    font-size: xx-small;
+    font-style:oblique;
+
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+tb{
+    color: blueviolet;
+}
+tr{
+    color: rgb(255, 140, 0);
+    size: 0cm;
+}
+label{
+    size: 0vmax;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.YOYO{
+display: flex;
+size: 20px;;
+color: blueviolet;
+gap: 20px;
+
+}
+.YOYO a{
+    size: 0ch;
+    color: darkgreen;
+    font-display: optional;
+    gap: 20px;
+}
